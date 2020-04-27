@@ -1,0 +1,10 @@
+{
+  "common": {
+    "setting": "Cài đặt",
+    "language": "Ngôn ngữ",
+    "account": "Tài khoản",
+    "account_info": "Thông tin cá nhân",
+    "change_password": "Đổi mật khẩu",
+    "sign_out": "Đăng xuất"
+  }
+}
